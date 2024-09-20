@@ -6,7 +6,11 @@
 
 ## Sobre Mim :eyeglasses:
 
-Olá, seja bem-vindo! Sou um Economista e Analista de Dados com forte paixão por números e pela transformação de dados brutos em insights acionáveis. Minha experiência abrange desde análises preditivas, modelos estatísticos até a automação de processos de negócios. Meus projetos incluem tanto análises complexas para decisões estratégicas quanto projetos pessoais, nos quais posso explorar minha paixão por Economia, Estatística e Tecnologia.
+Olá, prazer! 
+
+Meu nome é João, e sou um Economista explorando o mundo da tecnologia e dados. 
+
+Minha experiência abrange desde análises preditivas, modelos estatísticos até a automação de processos de negócios. Meus projetos incluem tanto análises complexas para decisões estratégicas quanto projetos pessoais, nos quais posso explorar minha paixão por Economia, Estatística e Tecnologia.
 
 # Competências Técnicas :hammer_and_wrench:
 
@@ -37,6 +41,6 @@ Olá, seja bem-vindo! Sou um Economista e Analista de Dados com forte paixão po
 # Projetos Recentes :rocket:
 **Análise Setorial do IMOB**: Criação de um painel dinâmico em Power BI utilizando dados de yfinance, explorando indicadores fundamentalistas e o desempenho setorial do setor imobiliário.
 
-**Previsão de Demanda com ARIMA**: Aplicação de modelos de séries temporais para prever o movimento do Produto Nacional. 
+**Previsão do PIB com ARIMA**: Aplicação de modelos de séries temporais para prever o movimento do Produto Nacional. 
 
 **Automação de Processos com Python e Selenium**: Em uma das minhas experiências tive a oportunidade de trabalhar em processos de automação em larga escala para coleta de dados, processos internos, e até mesmo BOTs de detecção.
