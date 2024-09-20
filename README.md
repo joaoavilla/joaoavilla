@@ -8,7 +8,7 @@
 
 Olá, seja bem-vindo! Sou um Economista e Analista de Dados com forte paixão por números e pela transformação de dados brutos em insights acionáveis. Minha experiência abrange desde análises preditivas, modelos estatísticos até a automação de processos de negócios. Meus projetos incluem tanto análises complexas para decisões estratégicas quanto projetos pessoais, nos quais posso explorar minha paixão por Economia, Estatística e Tecnologia.
 
-## Competências Técnicas :hammer_and_wrench:
+# Competências Técnicas :hammer_and_wrench:
 
 **Modelos Estatísticos e Econométricos**: Experiência na aplicação de modelos de regressão linear e logística, séries temporais (ARIMA, SARIMA) e análises de impacto econômico. Utilizo técnicas avançadas de estatística para interpretar, modelar e prever comportamentos com base em dados estruturados e não estruturados.
 
@@ -18,17 +18,25 @@ Olá, seja bem-vindo! Sou um Economista e Analista de Dados com forte paixão po
 
 **Análise Exploratória e Limpeza de Dados**: Proficiente em técnicas de ETL (Extract, Transform, Load) e manipulação de dados usando Pandas e SQL. Especializado em limpeza, transformação e validação de grandes volumes de dados para garantir alta qualidade e consistência nas análises.
   
-## Tecnologias :computer:
+# Tecnologias :computer:
 
 **Linguagens**: Python, SQL, R, JavaScript
+
 **Bibliotecas** Python: Pandas, Numpy, Matplotlib, Seaborn, Plotly, Scikit-learn, Selenium, BeautifulSoup, Openpyxl, ffmpeg...
+
 **Machine Learning**: Modelagem preditiva e otimização de hiperparâmetros com Scikit-learn, incluindo regressão, classificação e clustering.
+
 **Ferramentas de Visualização**: Power BI, Tableau, Excel (Avançado), DAX, Linguagem M
+
 **Ferramentas de Automação e Processos**: Power Automate, VBA, Selenium, API integration
+
 **Bancos de Dados**: MySQL, SQL Server, PostgreSQL
+
 **Outros**: Inglês fluente, Espanhol intermediário
 
-### Projetos Recentes :rocket:
+# Projetos Recentes :rocket:
 **Análise Setorial do IMOB**: Criação de um painel dinâmico em Power BI utilizando dados de yfinance, explorando indicadores fundamentalistas e o desempenho setorial do setor imobiliário.
+
 **Previsão de Demanda com ARIMA**: Aplicação de modelos de séries temporais para prever o movimento do Produto Nacional. 
+
 **Automação de Processos com Python e Selenium**: Em uma das minhas experiências tive a oportunidade de trabalhar em processos de automação em larga escala para coleta de dados, processos internos, e até mesmo BOTs de detecção.
