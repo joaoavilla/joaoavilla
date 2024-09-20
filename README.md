@@ -11,8 +11,11 @@ Olá, seja bem-vindo! Sou um Economista e Analista de Dados com forte paixão po
 ## Competências Técnicas :hammer_and_wrench:
 
 **Modelos Estatísticos e Econométricos**: Experiência na aplicação de modelos de regressão linear e logística, séries temporais (ARIMA, SARIMA) e análises de impacto econômico. Utilizo técnicas avançadas de estatística para interpretar, modelar e prever comportamentos com base em dados estruturados e não estruturados.
+
 **Análise de Dados e Visualização**: Habilidade no uso de Power BI, Matplotlib, Seaborn e Plotly para criar dashboards dinâmicos, gráficos interativos e relatórios que facilitam a tomada de decisões em tempo real.
+
 **Automação e Integração de Processos (RPA)**: Utilizo ferramentas como Python (Selenium, BeautifulSoup) e Power Automate para automatizar tarefas repetitivas e otimizar processos de negócios, economizando tempo e aumentando a eficiência operacional.
+
 **Análise Exploratória e Limpeza de Dados**: Proficiente em técnicas de ETL (Extract, Transform, Load) e manipulação de dados usando Pandas e SQL. Especializado em limpeza, transformação e validação de grandes volumes de dados para garantir alta qualidade e consistência nas análises.
   
 ## Tecnologias :computer:
