@@ -1,4 +1,4 @@
-# João V. Avilla Martins - Data Analyst :bar_chart:
+# João V. Avilla Martins - Data Analyst 
 
 ## Contato
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin)](https://www.linkedin.com/in/joaoavilla) :briefcase:
